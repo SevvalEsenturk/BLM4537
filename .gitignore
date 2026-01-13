@@ -1,0 +1,10 @@
+
+.vs/
+bin/
+obj/
+*.user
+*.suo
+.idea/
+*.lock
+build/
+.dart_tool/

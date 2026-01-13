@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lockapp", "lockapp", "{D9EED62F-2C9B-AEEF-02BF-3A1654B2EF99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockApp.Api", "lockapp\LockApp.Api\LockApp.Api.csproj", "{42E8A3A7-9ECE-A080-BD9A-1D1D32ECDF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E8A3A7-9ECE-A080-BD9A-1D1D32ECDF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E8A3A7-9ECE-A080-BD9A-1D1D32ECDF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E8A3A7-9ECE-A080-BD9A-1D1D32ECDF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E8A3A7-9ECE-A080-BD9A-1D1D32ECDF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{42E8A3A7-9ECE-A080-BD9A-1D1D32ECDF44} = {D9EED62F-2C9B-AEEF-02BF-3A1654B2EF99}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956565C5-114E-4D36-81C0-3ADC67DC5BE1}
+	EndGlobalSection
+EndGlobal
